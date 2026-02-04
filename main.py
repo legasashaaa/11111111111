@@ -8,7 +8,7 @@ from aiogram.contrib.fsm_storage.memory import MemoryStorage
 
 # --- НАСТРОЙКИ ---
 API_TOKEN = '8311250772:AAEG4WWfEFf3axJitF3xgPsVe7ozjMwwE2I'
-CRYPTO_PAY_TOKEN = '523191:AAboyI61aKwD8GmdufeKXn1kdCfwPWyDh82'
+CRYPTO_PAY_TOKEN = '526811:AAatyx14fjIZ6GitsEvGO2CO72qBnNyHdIS'
 ADMIN_ID = 8524326478
 ITEM_PRICE = 500  # Цена за 1 шт.
 
